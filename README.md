@@ -2,9 +2,8 @@
 
 ---
 
-* I am currently looking for a job or internship
-* I fully completed the [hexlet](https://ru.hexlet.io/u/seeu) profession in 5 months
-* [CV](https://cv.hexlet.io/resumes/1755)
+* I am Python Backend-developer
+* [CV](9clck.ru/34XjHA)
 
 ---
 
