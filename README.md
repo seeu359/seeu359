@@ -1,7 +1,7 @@
 #### Hi there :wave: I'm a python backend developer 
 
 ---
-* [CV](9clck.ru/34XjHA)
+* [CV](clck.ru/34XjHA)
 
 ---
 
