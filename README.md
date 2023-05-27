@@ -1,9 +1,6 @@
 #### Hi there :wave: I'm a python backend developer 
 
 ---
-* [CV](clck.ru/34XjHA)
-
----
 
 #### How to contact me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/seeu359)
