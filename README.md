@@ -1,8 +1,6 @@
 #### Hi there :wave: I'm a python backend developer 
 
 ---
-
-* I am Python Backend-developer
 * [CV](9clck.ru/34XjHA)
 
 ---
